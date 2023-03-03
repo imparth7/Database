@@ -15,9 +15,9 @@
     },
     {
         "id": 2,
-        "name": "Ava Thomas",
+        "name": "Sarah Anderson",
         "post": "Farm Manager",
-        "img": "https://imparth7.github.io/Database/Oraganick/Photos/Ava_Thomas.jpg",
+        "img": "https://imparth7.github.io/Database/Oraganick/Photos/Sarah_Anderson.jpg",
         "bio": "Responsible for overseeing the day-to-day operations of the farm, including managing personnel, crop or livestock production, and financial performance.",
         "social": [
             {
@@ -28,9 +28,9 @@
     },
     {
         "id": 3,
-        "name": "Sarah Anderson",
+        "name": "Ava Thomas",
         "post": "Farmer",
-        "img": "https://imparth7.github.io/Database/Oraganick/Photos/Sarah_Anderson.jpg",
+        "img": "https://imparth7.github.io/Database/Oraganick/Photos/Ava_Thomas.jpg",
         "bio": "Planting and maintaining crops, including watering, weeding, and monitoring for pests and diseases.",
         "social": [
             {
