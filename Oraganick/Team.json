@@ -1,0 +1,469 @@
+[
+    {
+        "id": 1,
+        "name": "Abigail Davis",
+        "post": "Farmer",
+        "img": "./Photos/Abigail Davis.jpg",
+        "bio": "Preparing the soil for planting crops, including tilling, fertilizing, and applying pesticides or herbicides as needed.",
+        "social": [
+            {
+                "facebook": "https://www.facebook.com",
+                "instagram": "https://www.instagram.com",
+                "twitter": "https://www.twitter.com"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Ava Thomas",
+        "post": "Farm Manager",
+        "img": "./Photos/Ava Thomas.jpg",
+        "bio": "Responsible for overseeing the day-to-day operations of the farm, including managing personnel, crop or livestock production, and financial performance.",
+        "social": [
+            {
+                "facebook": "https://www.facebook.com",
+                "instagram": "https://www.instagram.com"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Sarah Anderson",
+        "post": "Farmer",
+        "img": "./Photos/Sarah Anderson.jpg",
+        "bio": "Planting and maintaining crops, including watering, weeding, and monitoring for pests and diseases.",
+        "social": [
+            {
+                "facebook": "https://www.facebook.com"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Robert Martinez",
+        "post": "Crop Farmer",
+        "img": "./Photos/Robert Martinez.jpg",
+        "bio": "Responsible for planting, cultivating, and harvesting crops, as well as managing the health and quality of the soil and ensuring compliance with local and federal regulations.",
+        "social": [
+            {
+                "facebook": "https://www.facebook.com",
+                "instagram": "https://www.instagram.com",
+                "twitter": "https://www.twitter.com",
+                "youtube": "https://www.youtube.com"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Brandon Lee",
+        "post": "Livestock Farmer",
+        "img": "./Photos/Brandon Lee.jpg",
+        "bio": "Responsible for breeding, raising, and caring for livestock, including feeding, medical care, and management of grazing and pasture lands.",
+        "social": [
+            {
+                "facebook": "https://www.facebook.com",
+                "instagram": "https://www.instagram.com"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Emma Garcia",
+        "post": "Farmer",
+        "img": "./Photos/Emma Garcia.jpg",
+        "bio": "Preparing the soil for planting crops, including tilling, fertilizing, and applying pesticides or herbicides as needed.",
+        "social": [
+            {
+                "facebook": "https://www.facebook.com"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Tyler Hall",
+        "post": "Agronomist",
+        "img": "./Photos/Tyler Hall.jpg",
+        "bio": "Specialist in crop production who advises farmers on crop selection, planting, nutrient management, pest control, and other aspects of crop production.",
+        "social": [
+            {
+                "facebook": "https://www.facebook.com",
+                "instagram": "https://www.instagram.com",
+                "twitter": "https://www.twitter.com",
+                "youtube": "https://www.youtube.com"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Jasmine Morris",
+        "post": "Designer",
+        "img": "./Photos/Jasmine Morris.jpg",
+        "bio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex, doloribus suscipit perspiciatis officiis vel quaerat consequuntur aperiam laboriosam laborum voluptates! Ex nisi doloremque deleniti maiores, quia quis nostrum molestiae id hic, enim architecto, dolorum perferendis.",
+        "social": [
+            {
+                "facebook": "https://www.facebook.com",
+                "instagram": "https://www.instagram.com",
+                "twitter": "https://www.twitter.com",
+                "youtube": "https://www.youtube.com"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Isabella Rodriguez",
+        "post": "Agricultural Engineer",
+        "img": "./Photos/Isabella Rodriguez.jpg",
+        "bio": "Designs, develops, and implements new technologies and equipment for agricultural use, including irrigation systems, automated machinery, and more.",
+        "social": [
+            {
+                "facebook": "https://www.facebook.com",
+                "instagram": "https://www.instagram.com",
+                "twitter": "https://www.twitter.com",
+                "youtube": "https://www.youtube.com"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Benjamin Turner",
+        "post": "Crop Farmer",
+        "img": "./Photos/Benjamin Turner.jpg",
+        "bio": "Responsible for planting, cultivating, and harvesting crops, as well as managing the health and quality of the soil and ensuring compliance with local and federal regulations.",
+        "social": [
+            {
+                "facebook": "https://www.facebook.com",
+                "instagram": "https://www.instagram.com",
+                "twitter": "https://www.twitter.com"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Grace Scott",
+        "post": "Designer",
+        "img": "./Photos/Grace Scott.jpg",
+        "bio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex, doloribus suscipit perspiciatis officiis vel quaerat consequuntur aperiam laboriosam laborum voluptates! Ex nisi doloremque deleniti maiores, quia quis nostrum molestiae id hic, enim architecto, dolorum perferendis.",
+        "social": [
+            {
+                "facebook": "https://www.facebook.com",
+                "instagram": "https://www.instagram.com",
+                "twitter": "https://www.twitter.com"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Hannah Ramirez",
+        "post": "Designer",
+        "img": "./Photos/Hannah Ramirez.jpg",
+        "bio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex, doloribus suscipit perspiciatis officiis vel quaerat consequuntur aperiam laboriosam laborum voluptates! Ex nisi doloremque deleniti maiores, quia quis nostrum molestiae id hic, enim architecto, dolorum perferendis.",
+        "social": [
+            {
+                "facebook": "https://www.facebook.com",
+                "instagram": "https://www.instagram.com",
+                "twitter": "https://www.twitter.com"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Aaron King",
+        "post": "Agricultural Mechanic",
+        "img": "./Photos/Aaron King.jpg",
+        "bio": "Responsible for maintaining and repairing farm equipment and machinery, such as tractors, harvesters, and irrigation systems.",
+        "social": [
+            {
+                "facebook": "https://www.facebook.com",
+                "instagram": "https://www.instagram.com",
+                "twitter": "https://www.twitter.com",
+                "youtube": "https://www.youtube.com"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "William Davis",
+        "post": "Marketing Manager",
+        "img": "./Photos/William Davis.jpg",
+        "bio": "Responsible for promoting the company's products and services to customers, developing sales strategies, and managing the sales team.",
+        "social": [
+            {
+                "facebook": "https://www.facebook.com",
+                "instagram": "https://www.instagram.com",
+                "twitter": "https://www.twitter.com"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Matthew Thomas",
+        "post": "Financial Analyst",
+        "img": "./Photos/Matthew Thomas.jpg",
+        "bio": "Analyzes the company's financial performance and helps make strategic decisions related to budgeting, investment, and risk management.",
+        "social": [
+            {
+                "facebook": "https://www.facebook.com",
+                "instagram": "https://www.instagram.com",
+                "twitter": "https://www.twitter.com"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Chloe Hernandez",
+        "post": "Farmer",
+        "img": "./Photos/Chloe Hernandez.jpg",
+        "bio": "Preparing the soil for planting crops, including tilling, fertilizing, and applying pesticides or herbicides as needed.",
+        "social": [
+            {
+                "facebook": "https://www.facebook.com",
+                "instagram": "https://www.instagram.com",
+                "youtube": "https://www.youtube.com"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Claire Wright",
+        "post": "Farmer",
+        "img": "./Photos/Claire Wright.jpg",
+        "bio": "Preparing the soil for planting crops, including tilling, fertilizing, and applying pesticides or herbicides as needed.",
+        "social": [
+            {
+                "youtube": "https://www.youtube.com",
+                "instagram": "https://www.instagram.com",
+                "twitter": "https://www.twitter.com"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Elizabeth Wilson",
+        "post": "Farmer",
+        "img": "./Photos/Elizabeth Wilson.jpg",
+        "bio": "Preparing the soil for planting crops, including tilling, fertilizing, and applying pesticides or herbicides as needed.",
+        "social": [
+            {
+                "facebook": "https://www.facebook.com",
+                "instagram": "https://www.instagram.com"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "John Garcia",
+        "post": "CEO",
+        "img": "./Photos/John Garcia.jpg",
+        "bio": "Responsible for managing the overall operation of the farm, including finances, staffing, and production decisions.",
+        "social": [
+            {
+                "facebook": "https://www.facebook.com",
+                "instagram": "https://www.instagram.com",
+                "twitter": "https://www.twitter.com"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Hailey Cooper",
+        "post": "HR",
+        "img": "./Photos/Hailey Cooper.jpg",
+        "bio": "Responsible for managing the company's personnel, including hiring, training, and developing employees, and ensuring compliance with labor laws and regulations.",
+        "social": [
+            {
+                "facebook": "https://www.facebook.com",
+                "instagram": "https://www.instagram.com",
+                "twitter": "https://www.twitter.com"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Emily Johnson",
+        "post": "Farmer",
+        "img": "./Photos/Emily Johnson.jpg",
+        "bio": "Planting and maintaining crops, including watering, weeding, and monitoring for pests and diseases.",
+        "social": [
+            {
+                "facebook": "https://www.facebook.com",
+                "instagram": "https://www.instagram.com"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Madison Brown",
+        "post": "Designer",
+        "img": "./Photos/Madison Brown.jpg",
+        "bio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex, doloribus suscipit perspiciatis officiis vel quaerat consequuntur aperiam laboriosam laborum voluptates! Ex nisi doloremque deleniti maiores, quia quis nostrum molestiae id hic, enim architecto, dolorum perferendis.",
+        "social": [
+            {
+                "facebook": "https://www.facebook.com",
+                "instagram": "https://www.instagram.com",
+                "twitter": "https://www.twitter.com",
+                "youtube": "https://www.youtube.com"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Kayla White",
+        "post": "Designer",
+        "img": "./Photos/Kayla White.jpg",
+        "bio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex, doloribus suscipit perspiciatis officiis vel quaerat consequuntur aperiam laboriosam laborum voluptates! Ex nisi doloremque deleniti maiores, quia quis nostrum molestiae id hic, enim architecto, dolorum perferendis.",
+        "social": [
+            {
+                "facebook": "https://www.facebook.com",
+                "instagram": "https://www.instagram.com",
+                "twitter": "https://www.twitter.com"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Natalie Lee",
+        "post": "Designer",
+        "img": "./Photos/Natalie Lee.jpg",
+        "bio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex, doloribus suscipit perspiciatis officiis vel quaerat consequuntur aperiam laboriosam laborum voluptates! Ex nisi doloremque deleniti maiores, quia quis nostrum molestiae id hic, enim architecto, dolorum perferendis.",
+        "social": [
+            {
+                "facebook": "https://www.facebook.com",
+                "instagram": "https://www.instagram.com",
+                "twitter": "https://www.twitter.com"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Rachel Green",
+        "post": "Agronomist",
+        "img": "./Photos/Rachel Green.jpg",
+        "bio": "Specialist in crop production who advises farmers on crop selection, planting, nutrient management, pest control, and other aspects of crop production.",
+        "social": [
+            {
+                "instagram": "https://www.instagram.com",
+                "twitter": "https://www.twitter.com"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Samantha - Sydney Parker",
+        "post": "Designer",
+        "img": "./Photos/Samantha - Sydney Parker.jpg",
+        "bio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex, doloribus suscipit perspiciatis officiis vel quaerat consequuntur aperiam laboriosam laborum voluptates! Ex nisi doloremque deleniti maiores, quia quis nostrum molestiae id hic, enim architecto, dolorum perferendis.",
+        "social": [
+            {
+                "facebook": "https://www.facebook.com",
+                "instagram": "https://www.instagram.com",
+                "twitter": "https://www.twitter.com",
+                "youtube": "https://www.youtube.com"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Lauren Adams",
+        "post": "Farmer",
+        "img": "./Photos/Lauren Adams.jpg",
+        "bio": "Planting and maintaining crops, including watering, weeding, and monitoring for pests and diseases.",
+        "social": [
+            {
+                "facebook": "https://www.facebook.com",
+                "instagram": "https://www.instagram.com",
+                "twitter": "https://www.twitter.com"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Lily Carter",
+        "post": "Farmer",
+        "img": "./Photos/Lily Carter.jpg",
+        "bio": "Harvesting crops when they are ready, including using machinery such as combines or pickers to harvest crops efficiently.",
+        "social": [
+            {
+                "facebook": "https://www.facebook.com"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Mia Nelson",
+        "post": "Farmer",
+        "img": "./Photos/Mia Nelson.jpg",
+        "bio": "Harvesting crops when they are ready, including using machinery such as combines or pickers to harvest crops efficiently.",
+        "social": [
+            {
+                "facebook": "https://www.facebook.com",
+                "instagram": "https://www.instagram.com"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Olivia Martinez",
+        "post": "Farmer",
+        "img": "./Photos/Olivia Martinez.jpg",
+        "bio": "Harvesting crops when they are ready, including using machinery such as combines or pickers to harvest crops efficiently.",
+        "social": [
+            {
+                "facebook": "https://www.facebook.com",
+                "instagram": "https://www.instagram.com"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Olivia Turner",
+        "post": "Farmer",
+        "img": "./Photos/Olivia Turner.jpg",
+        "bio": "Harvesting crops when they are ready, including using machinery such as combines or pickers to harvest crops efficiently.",
+        "social": [
+            {
+                "facebook": "https://www.facebook.com",
+                "instagram": "https://www.instagram.com",
+                "twitter": "https://www.twitter.com",
+                "youtube": "https://www.youtube.com"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Anthony Scott",
+        "post": "Farmer",
+        "img": "./Photos/Anthony Scott.jpg",
+        "bio": "Planting and maintaining crops, including watering, weeding, and monitoring for pests and diseases.",
+        "social": [
+            {
+                "facebook": "https://www.facebook.com",
+                "instagram": "https://www.instagram.com"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Sophia Taylor",
+        "post": "Farmer",
+        "img": "./Photos/Sophia Taylor.jpg",
+        "bio": "Harvesting crops when they are ready, including using machinery such as combines or pickers to harvest crops efficiently.",
+        "social": [
+            {
+                "facebook": "https://www.facebook.com",
+                "twitter": "https://www.twitter.com"
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Victoria Collins",
+        "post": "Farmer",
+        "img": "./Photos/Victoria Collins.jpg",
+        "bio": "Planting and maintaining crops, including watering, weeding, and monitoring for pests and diseases.",
+        "social": [
+            {
+                "facebook": "https://www.facebook.com"
+            }
+        ]
+    }
+]
